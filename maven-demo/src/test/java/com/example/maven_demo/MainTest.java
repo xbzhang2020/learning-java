@@ -1,4 +1,4 @@
-package com.example;
+package com.example.maven_demo;
 
 import org.junit.jupiter.api.Test;
 
